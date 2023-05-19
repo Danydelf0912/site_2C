@@ -4,7 +4,7 @@
     }
     
     .cabeçalho{
-    background-color: rgba(245, 164, 97, 0.918);
+    background-color: rgb(255, 188, 100);
     color: black;
     display: flex;
     justify-content: space-around;
@@ -12,3 +12,233 @@
     padding: 24px 0;
     }
     
+    .cabeçalho_imagem{
+    width: 12%;
+    }
+    
+    .cabeçalho_titulo{
+    font-size: 50px;
+    }* {
+        margin: 0%;
+        .titulo_apresentaçao_trabalho{
+        font-size: 30px;
+        }
+        
+        .imagem_arvore{
+        width: 15%;
+        .titulo_apresentaçao_trabalho{
+        font-size: 30px;
+        }
+        
+        .imagem_arvore{
+        width: 15%;
+        .titulo_apresentaçao_trabalho{
+        font-size: 30px;
+        }
+        
+        .imagem_arvore{
+        width: 15%;
+        .titulo_apresentaçao_trabalho{
+        font-size: 30px;
+        }
+        
+        .imagem_arvore{
+        width: 15%;
+        padding: 0%;
+        }
+        
+        .cabeçalho{
+        background-color: rgb(255, 183, 89);
+        color: black;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 24px 0;
+        }
+        
+        .cabeçalho_imagem{
+        width: 12%;
+        }
+        
+        .cabeçalho_titulo{
+        font-size: 50px;
+        }
+        
+        .cabeçalho_lista_item{
+        margin: 25px 0px 25px 0px;
+        font-size: 16px;
+        }
+        
+        .apresentaçao_trabalho{
+        background-image: linear-gradient(rgb(247, 169, 80), #dd371a);
+        display: flex;* {
+            margin: 0%;
+            padding: 0%;
+            }
+            
+            .cabeçalho{
+            background-color: rgb(247, 179, 92);
+            color: black;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 24px 0;
+            }
+            
+            .cabeçalho_imagem{
+            width: 12%;
+            }
+            * {
+                margin: 0%;
+                padding: 0%;
+                }
+                
+                .cabeçalho{
+                background-color: rgb(253, 190, 96);
+                color: black;
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                padding: 24px 0;
+                }
+                
+                .cabeçalho_imagem{
+                    width: 12%;
+                    }
+                    
+                .cabeçalho_titulo{
+                font-size: 50px;
+                }
+                
+                .cabeçalho_lista_item{
+                margin: 25px 0px 25px 0px;
+                font-size: 16px;
+                }
+                
+                .apresentaçao_trabalho{
+                background-image: linear-gradient(rgb(248, 195, 95), #dd371a);
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                padding: 24px 0;
+                }
+                
+                .titulo_apresentaçao_trabalho{
+                    font-size: 30px;
+                    }
+                    
+                    .imagem_arvore{
+                    width: 15%;
+                }
+            .cabeçalho_titulo{
+            font-size: 50px;
+            }
+            
+            .cabeçalho_lista_item{
+            margin: 25px 0px 25px 0px;
+            font-size: 16px;
+            }
+            
+            .apresentaçao_trabalho{
+            background-image: linear-gradient(rgb(247, 181, 106), #dd371a);
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 24px 0;
+            }
+            
+            .titulo_apresentaçao_trabalho{
+            font-size: 30px;
+            }
+            
+            .imagem_arvore{
+            width: 15%;
+        }
+    .imagem_arvore{
+    width: 15%;
+    }
+
+.cabeçalho_lista_item{
+margin: 25px 0px 25px 0px;
+            }
+        justify-content: space-around;
+        align-items: center;
+        padding: 24px 0;
+        }
+        
+        .titulo_apresentaçao_trabalho{
+        font-size: 30px;
+        }
+        * {
+            margin: 0%;
+            padding: 0%;
+            }
+            
+            .cabeçalho{
+            }
+        .imagem_arvore{
+        width: 15%;
+        }
+    
+    .cabeçalho_lista_item{
+    margin: 25px 0px 25px 0px;
+            background-color: rgb(250, 191, 103);
+            color: black;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 24px 0;
+            }
+            
+            .cabeçalho_imagem{
+            width: 12%;
+            }
+            
+            .cabeçalho_titulo{
+            font-size: 50px;
+            }
+            
+            .cabeçalho_lista_item{
+            margin: 25px 0px 25px 0px;
+            font-size: 16px;
+            }
+            
+            .apresentaçao_trabalho{
+            background-image: linear-gradient(rgb(247, 195, 98), #dd371a);
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 24px 0;
+            }
+            
+            .titulo_apresentaçao_trabalho{
+            font-size: 30px;
+            }
+            
+            .imagem_arvore{
+            width: 15%;
+        }
+    .imagem_arvore{
+    width: 15%;
+    }
+
+.cabeçalho_lista_item{
+margin: 25px 0px 25px 0px;
+    font-size: 16px;
+    }
+    
+    .apresentaçao_trabalho{
+    background-image: linear-gradient(rgb(238, 174, 91), #dd371a);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+    }
+    
+    .titulo_apresentaçao_trabalho{
+    font-size: 30px;
+    }
+    
+    .imagem_arvore{
+    width: 15%;
+    }
